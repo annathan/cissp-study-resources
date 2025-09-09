@@ -56,3 +56,10 @@ Nothing here is proprietary or exam content, just publicly available resources a
 This repo does not share or disclose any actual exam questions, answers, or ISC2 proprietary content.  
 It’s just a collection of publicly available resources and my personal reflections.  
 
+---
+
+## License
+This content is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt with attribution.
+
+
